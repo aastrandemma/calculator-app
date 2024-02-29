@@ -14,6 +14,7 @@ public class Calculation {
     }
 
     public static float division(int first, int second) {
-        return (float) (first / second);
+        float result = (float) first / second;
+        return result;
     }
 }
