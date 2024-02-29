@@ -1,8 +1,8 @@
 package com.github.aastrandemma;
+
 public class App
 {
-    public static void main( String[] args )
-    {
-
+    public static void main( String[] args ) {
+        Calculator.displayCalculator();
     }
 }
